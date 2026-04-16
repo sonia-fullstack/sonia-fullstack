@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sonia 👋
 
-<!--
-**sonia-fullstack/sonia-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Engineer with 9+ years of experience building 
+scalable enterprise applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Backend:** Java · Spring Boot · Spring Security · Microservices · REST APIs  
+**Frontend:** Angular 18+ · TypeScript · RxJS · HTML5 · CSS3  
+**Tools:** Git · Docker · JIRA · GitHub Copilot  
+**DB:** MySQL · PostgreSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Building full-stack projects with AI integration
+- Sharpening System Design & DSA skills
+
+## 📺 YouTube
+Running **CodeSprint with Sonia** — tech interview prep for 
+Java, Angular & DSA  
+🔗 [Watch here](https://youtube.com/@CodeSprintwithSonia)
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sonia-rao-72815538)
