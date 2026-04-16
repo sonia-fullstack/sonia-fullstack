@@ -19,4 +19,4 @@ Java, Angular & DSA
 🔗 [Watch here](https://youtube.com/@CodeSprintwithSonia)
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sonia-rao-72815538)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sonia-dev)
